@@ -1,6 +1,4 @@
 # Details:
-    - Auther: Totem
-    - Discord: Totem#0001
     - Challenge: Phoenix/stack-five from https://exploit.education
 ---------------
 # Information Gathering:
